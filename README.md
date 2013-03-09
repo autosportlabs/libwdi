@@ -1,4 +1,1 @@
-libwdi
-======
-
-libwdi
+A copy of libwdi modified to create a stand-alone driver installer for the Autosport Labs bootloader.
